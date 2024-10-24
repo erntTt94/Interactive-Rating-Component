@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/erntTt94/Interactive-Rating-Component](https://github.com/erntTt94/Interactive-Rating-Component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ernttt94.github.io/Interactive-Rating-Component/](https://ernttt94.github.io/Interactive-Rating-Component/)
 
 ## My process
 
